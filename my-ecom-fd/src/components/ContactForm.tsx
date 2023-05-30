@@ -6,7 +6,7 @@ const ContactForm = () => {
   <div className="container px-5 py-24 mx-auto">
     <div className="flex flex-col w-full mb-12 text-center">
       <h1 className="mb-4 text-2xl font-medium text-gray-900 sm:text-3xl title-font">Contact Us</h1>
-      <p className="mx-auto text-base leading-relaxed lg:w-2/3">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify.</p>
+      <p className="mx-auto text-base leading-relaxed lg:w-2/3">For more information and to get started today.</p>
     </div>
     <div className="mx-auto lg:w-1/2 md:w-2/3">
       <div className="flex flex-wrap -m-2">
